@@ -1,0 +1,39 @@
+ @media only screen and (min-width: 0px) and (max-width: 700px) {
+  .site {
+    font-size: x-small;
+    display: flex;
+    padding-top: 0;
+  }
+}
+
+.container1{
+background-color:MediumSeaGreen;
+margin-top:35px;
+margin-bottom:0px;
+height:80px;
+padding-top:5px
+}
+.image{
+margin-top:0px;
+padding-bottom:7px;
+padding-left:17px;
+padding-top:7px;
+width:90%;
+align:left
+}
+
+body{
+background-color:MintCream}
+
+.row{
+background-color:MediumSeaGreen;
+margin-top:0px;
+padding-bottom:7px;
+padding-left:10px;
+padding-top:7px
+}
+
+.conatiner-sm{
+height:200px;
+}
+
